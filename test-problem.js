@@ -31,7 +31,7 @@ function findLongestWord(str) {
 
 let tests = ["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             '"Smart people learn from everything and everyone, average people from their experience, stupid people already, have all the answers" (Socrates)', "583058", 5387403, "#@$ %@*%&#*% @$%#", "$#*%&@%(", 
-             "$#*hfey8t4hU*R# $*3oetu49j UR$905i4ae (U4i5oiute9", "wqsxc nmhkl", true, false]
+             "$#*hfey8t4hU*R# $*3oetu49j UR$905i4ae (U4i5oiute9", "wqsxc nmhkl", true, false, null, '', undefined]
 
 let answers = [];
 
